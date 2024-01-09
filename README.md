@@ -3,6 +3,9 @@ Media framing in news on Israel-Palestine conflict in 2023
 
 This analysis is performed for the final project of Empirical Methods course of Master 2 in Economie du Développement Durable of Univesité de Paris 1 Panthéon-Sorbonne in collaboration with Elif Çanga.
 
+### Content Warning: Sensitive Material
+The content analyzed in this repository may contain historically and culturally sensitive terms as well as references to violent themes, consequences of warfare, death and human suffering. Reader discretion is advised. The information provided may be distressing or triggering to some individuals. Proceeding further acknowledges your understanding and acceptance of encountering such sensitive subject matter.
+
 ## Research Question
 The purpose of this analysis is to show how two different countries / two media from different countries cover the war in news, how the reality of war can be reflected in the media in different ways, by using the NLP technique in the context of the Israel-Palestinian conflict. The fact that this issue is linked to international relations and politics has caused most countries in the world to position themselves. In this regard, we conducted a media framing analysis by examining the news of the Qatari media Al-Jazeera and the British media BBC, in which we detected differences in their political statements.
 
